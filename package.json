@@ -1,0 +1,24 @@
+{
+  "name": "E-CommerceBackEnd",
+  "version": "1.0.0",
+  "description": "# 13 Object-Relational Mapping (ORM): E-Commerce Back End",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samuel6roth/E-CommerceBackEnd.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samuel6roth/E-CommerceBackEnd/issues"
+  },
+  "homepage": "https://github.com/samuel6roth/E-CommerceBackEnd#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
