@@ -3,7 +3,7 @@ const Product = require('./Product');
 const Category = require('./Category');
 const Tag = require('./Tag');
 const ProductTag = require('./ProductTag');
-const { triggerAsyncId } = require('node:async_hooks');
+// const { triggerAsyncId } = require('node:async_hooks');
 
 
 // Products belongsTo Category
